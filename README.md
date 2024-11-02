@@ -1,6 +1,5 @@
-![彩云小译打图标](https://cdn-web.caiyunapp.com/xiaoyi-assets/logo/xiaoyi-logo.png)
-# 彩云小译(py) ![彩云小译图标](https://fanyi.caiyunapp.com/favicon.ico)
-
+![彩云小译logo](https://cdn-web.caiyunapp.com/xiaoyi-assets/logo/xiaoyi-logo.png)
+# 彩云小译(py)
 ## 简介
 这是一个简单的 Python 项目，通过抓取彩云小译提供的 API 实现中文和英文之间的词汇翻译。用户可以输入要翻译的文本，程序将返回翻译结果及相关解释。
 
